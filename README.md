@@ -1,1 +1,2 @@
-# medical-data-analysis-forecast
+# 医疗数据分析预测
+实习期间的部分研究数据，使用XGboost模型预测患者疾病复发的概率
